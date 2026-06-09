@@ -14,6 +14,8 @@ We call these pathways **Function Tunnels (FT)**.
 
 As Function Tunnels accumulate, interact, and reinforce one another, they form **Function Tunnel Networks (FTN)**.
 
+![./docs/figures/Fig-001-From-Trajectory-Families-to-Function-Tunnel.png](./docs/figures/Fig-001-From-Trajectory-Families-to-Function-Tunnel.png)
+
 This repository explores the hypothesis that:
 
 - learning,
@@ -51,9 +53,13 @@ While each perspective captures part of reality, they do not fully explain:
 
 FTN proposes that the missing component may be the formation, evolution, and accumulation of Function Tunnels.
 
+![./docs/figures/Fig-004-Function-Tunnel-as-Operator.png](./docs/figures/Fig-004-Function-Tunnel-as-Operator.png)
+
 ---
 
 ## The FT Framework
+
+![./docs/figures/Fig-005-Relationship-Between-CCC-FTI-FTN-FTC.png](./docs/figures/Fig-005-Relationship-Between-CCC-FTI-FTN-FTC.png)
 
 The FT framework consists of four progressively larger concepts:
 
@@ -92,6 +98,8 @@ Function Tunnels provide operational structure.
 
 ### Education as Tunnel Engineering
 
+![./docs/figures/Fig-011-Education-as-Tunnel-Engineering.png](./docs/figures/Fig-011-Education-as-Tunnel-Engineering.png)
+
 Education is not merely content delivery.
 
 Education is the construction and refinement of Function Tunnels.
@@ -102,9 +110,13 @@ Professional specialization and comparative advantage emerge from differences in
 
 ### Human-AI Shared FTNs
 
+![./docs/figures/Fig-012-Human+AI-Shared-FTN.png](./docs/figures/Fig-012-Human+AI-Shared-FTN.png)
+
 Human-AI collaboration can produce shared Function Tunnel Networks that exceed the capabilities of either participant alone.
 
 ### Career Selection as FTC Maximization
+
+![./docs/figures/Fig-014-Career-Selection-in-AI-Era.png](./docs/figures/Fig-014-Career-Selection-in-AI-Era.png)
 
 In the AI era, career selection may increasingly become a problem of maximizing Function Tunnel Capital.
 
