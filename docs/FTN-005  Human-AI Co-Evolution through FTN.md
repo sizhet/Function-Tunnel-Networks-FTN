@@ -10,6 +10,8 @@ AI may become a participant in Function Tunnel Networks.
 
 ## Human-AI Shared FTNs
 
+![./figures/Fig-012-Human+AI-Shared-FTN.png](./figures/Fig-012-Human+AI-Shared-FTN.png)
+
 Human-AI collaboration can produce shared FTNs.
 
 Examples include:

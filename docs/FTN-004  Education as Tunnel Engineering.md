@@ -22,6 +22,8 @@ The goal of education is not merely delivering information.
 
 The goal is constructing functional pathways.
 
+![./figures/Fig-011-Education-as-Tunnel-Engineering.png](./figures/Fig-011-Education-as-Tunnel-Engineering.png)
+
 ## Why Students Learn Differently
 
 Students often receive identical content but achieve dramatically different outcomes.

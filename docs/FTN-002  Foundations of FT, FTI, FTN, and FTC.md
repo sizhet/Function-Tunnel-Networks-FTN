@@ -1,5 +1,8 @@
 # FTN-002 - Foundations of FT, FTI, FTN, and FTC
+
 ## Four Core Concepts
+
+![./figures/Fig-005-Relationship-Between-CCC-FTI-FTN-FTC.png](./figures/Fig-005-Relationship-Between-CCC-FTI-FTN-FTC.png)
 
 The Function Tunnel framework is built upon four progressively larger concepts:
 

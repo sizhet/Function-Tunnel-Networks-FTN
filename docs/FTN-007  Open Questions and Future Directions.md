@@ -5,6 +5,8 @@
 
 Many important questions remain unanswered.
 
+![./figures/Fig-015-Civilization-as-a-Function-Tunnel-Network.png](./figures/Fig-015-Civilization-as-a-Function-Tunnel-Network.png)
+
 ## Open Questions
 ### Measurement
 

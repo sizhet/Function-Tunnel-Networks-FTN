@@ -13,6 +13,8 @@ A more important question may be:
 
     "What Function Tunnel Capital am I building?"
 
+![./figures/Fig-013-Function-Tunnel-Capital.png](./figures/Fig-013-Function-Tunnel-Capital.png)
+
 ## FTC Maximization
 
 Career decisions should consider:
@@ -23,6 +25,8 @@ Career decisions should consider:
 - tunnel connectivity,
 - Human-AI complementarity.
 - High-Value FTC
+
+![./figures/Fig-014-Career-Selection-in-AI-Era.png](./figures/Fig-014-Career-Selection-in-AI-Era.png)
 
 ## High-value FTC often possesses:
 

@@ -21,6 +21,8 @@ This repository explores a different hypothesis.
 
 We propose that many aspects of intelligence and civilization may be understood through the formation and evolution of stable functional pathways called Function Tunnels (FT).
 
+![./figures/Fig-010-Function-Tunnel-Society.png](./figures/Fig-010-Function-Tunnel-Society.png)
+
 ## Core Observation
 
 Knowledge alone does not explain competence.
