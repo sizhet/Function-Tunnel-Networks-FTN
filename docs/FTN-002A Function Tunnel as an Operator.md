@@ -15,11 +15,11 @@ A Function Tunnel is an operational structure.
 
 It is something that can be:
 
-observed,
-constructed,
-measured,
-utilized,
-and potentially computed.
+- observed,
+- constructed,
+- measured,
+- utilized,
+- and potentially computed.
 
 This document clarifies the transition from the intuitive metaphorical interpretation of FT to its intended role as a runtime structural operator.
 
@@ -27,11 +27,11 @@ This document clarifies the transition from the intuitive metaphorical interpret
 
 When readers first encounter the term Function Tunnel, they often think of:
 
-mental models,
-habits,
-expertise,
-preferences,
-or learning paths.
+- mental models,
+- habits,
+- expertise,
+- preferences,
+- or learning paths.
 
 These interpretations are not entirely wrong.
 
@@ -39,7 +39,7 @@ However, they describe manifestations of Function Tunnels rather than Function T
 
 The Function Tunnel framework proposes a stronger claim:
 
-A Function Tunnel is an operationally meaningful feasible evolution structure.
+> A Function Tunnel is an operationally meaningful feasible evolution structure.
 
 In other words:
 
@@ -53,26 +53,26 @@ Many traditional models focus on objects.
 
 Examples include:
 
-knowledge objects,
-skill objects,
-memory objects,
-data objects.
+- knowledge objects,
+- skill objects,
+- memory objects,
+- data objects.
 
 Function Tunnel theory shifts attention away from objects and toward trajectories.
 
 Instead of asking:
 
-What does the system contain?
+> What does the system contain?
 
 we ask:
 
-How can the system evolve?
+> How can the system evolve?
 
 The central concern becomes:
 
-Current State
-        ↓
-Possible Future States
+    Current State
+            ↓
+    Possible Future States
 
 Not every transition is feasible.
 
@@ -86,37 +86,37 @@ Function Tunnels emerge precisely because successful evolution is constrained.
 
 A useful intuition is to think of a Function Tunnel as a feasible region embedded within a larger space of possibilities.
 
-          Invalid Region
-
-XXXXXXXXXXXXXXXXXXXXXXXXXX
-
-         ###########
-      ####         ####
-    ####   FT Region  ####
-      ####         ####
-         ###########
-
-XXXXXXXXXXXXXXXXXXXXXXXXXX
-
-          Invalid Region
+              Invalid Region
+    
+    XXXXXXXXXXXXXXXXXXXXXXXXXX
+    
+             ###########
+          ####         ####
+        ####   FT Region  ####
+          ####         ####
+             ###########
+    
+    XXXXXXXXXXXXXXXXXXXXXXXXXX
+    
+              Invalid Region
 
 Inside the FT region:
 
-evolution remains functional,
-constraints remain satisfied,
-policies remain preserved,
-objectives remain achievable.
+- evolution remains functional,
+- constraints remain satisfied,
+- policies remain preserved,
+- objectives remain achievable.
 
 Outside the FT region:
 
-failure becomes likely,
-instability increases,
-constraints break,
-functionality degrades.
+- failure becomes likely,
+- instability increases,
+- constraints break,
+- functionality degrades.
 
 Under this interpretation:
 
-A Function Tunnel is an operator-defined feasible evolution region.
+> A Function Tunnel is an operator-defined feasible evolution region.
 
 ## 4. Function Tunnel as a Runtime Structure
 
@@ -126,7 +126,8 @@ They exist only through execution.
 
 Examples include:
 
-    Learning
+### Learning
+
     Novice
       ↓
     Practice
@@ -134,13 +135,17 @@ Examples include:
     Competence
       ↓
     Expertise
-    Software Evolution
+
+### Software Evolution
+
     Code Base A
       ↓
     Refactoring
       ↓
     Code Base B
-    Scientific Discovery
+
+### Scientific Discovery
+
     Observation
       ↓
     Hypothesis
@@ -148,7 +153,9 @@ Examples include:
     Validation
       ↓
     Theory
-    Human-AI Collaboration
+
+### Human-AI Collaboration
+
     Human Capability
       ↓
     Human + AI Interaction
@@ -169,7 +176,7 @@ Time series prediction.
 
 Financial markets provide a particularly intuitive example.
 
-Historical Curves
+### Historical Curves
 
 Suppose we collect thousands of historical trajectories.
 
@@ -187,7 +194,7 @@ At first glance, every curve appears different.
 
 However, structural analysis often reveals recurring patterns.
 
-Curve Families
+### Curve Families
 
 After normalization, alignment, and clustering, groups of similar trajectories emerge.
 
@@ -213,7 +220,7 @@ or
 
 These recurring structures form Curve Families.
 
-From Curve Families to Function Tunnels
+### From Curve Families to Function Tunnels
 
 Suppose many historical trajectories share a similar structural pattern.
 
@@ -233,7 +240,8 @@ After alignment:
 
 A Function Tunnel emerges.
 
-Conceptual Diagram
+### Conceptual Diagram
+
 Historical Curves
 
     Curve A
@@ -297,27 +305,15 @@ This is the practical value of Function Tunnels.
 
 Consider a system state:
 
-S(t)
+    S(t)
 
 where the state may contain:
 
-S(t)={Price,Volume,Momentum,Volatility,Context}
+    S(t)={Price,Volume,Momentum,Volatility,Context}
 
 Suppose historical trajectories:
 
-S
-1
-	​
-
-(t),S
-2
-	​
-
-(t),...S
-n
-	​
-
-(t)
+    S_1(t),S_2(t),...S_n(t)
 
 share similar structural evolution.
 
@@ -325,19 +321,7 @@ Further suppose these trajectories repeatedly converge toward similar future reg
 
 Then:
 
-{S
-1
-	​
-
-,S
-2
-	​
-
-,…,S
-n
-	​
-
-}→T
+    {S_1,S_2,…,S_n} → T
 
 defines a Function Tunnel.
 
@@ -349,27 +333,27 @@ It is a family of feasible trajectories.
 
 Many concepts developed within Structural Intelligence can be reinterpreted through the Function Tunnel perspective.
 
-Differential Tree
+### Differential Tree
 
 Can be viewed as discovering trajectory families.
 
-Common Concept Core (CCC)
+### Common Concept Core (CCC)
 
 Can be viewed as identifying structural commonality among trajectory families.
 
-Metric Differential Tree (MDT)
+### Metric Differential Tree (MDT)
 
 Can be viewed as organizing trajectory families within metric spaces.
 
-Function Tunnel Intelligence (FTI)
+### Function Tunnel Intelligence (FTI)
 
 Can be viewed as navigating among feasible evolution regions.
 
-Function Tunnel Networks (FTN)
+### Function Tunnel Networks (FTN)
 
 Can be viewed as networks of interacting Function Tunnels.
 
-Function Tunnel Capital (FTC)
+### Function Tunnel Capital (FTC)
 
 Can be viewed as accumulated reusable Function Tunnel assets.
 
@@ -381,29 +365,31 @@ Function Tunnels may emerge in many domains.
 
 Examples include:
 
-Education
+### Education
 
 Learning trajectories.
 
-Scientific Research
+### Scientific Research
 
 Knowledge evolution trajectories.
 
-Software Engineering
+### Software Engineering
 
 Code evolution trajectories.
 
-Organizations
+### Organizations
 
 Capability evolution trajectories.
 
-Human-AI Collaboration
+### Human-AI Collaboration
 
 Collective intelligence evolution trajectories.
 
-Civilizations
+### Civilizations
 
 Large-scale societal evolution trajectories.
+
+---
 
 In all cases, the same principle applies:
 
@@ -415,14 +401,14 @@ Those structures define Function Tunnels.
 
 The central claim of this document can be summarized succinctly.
 
-A Function Tunnel is not a conceptual metaphor.
+> A Function Tunnel is not a conceptual metaphor.
 
 It is:
 
-an observable structure,
-a reusable operator,
-a feasible evolution region,
-and a runtime constraint mechanism.
+- an observable structure,
+- a reusable operator,
+- a feasible evolution region,
+- and a runtime constraint mechanism.
 
 Function Tunnels are discovered from recurring patterns of successful evolution.
 
