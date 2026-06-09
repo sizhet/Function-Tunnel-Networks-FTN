@@ -1,34 +1,32 @@
 {
-  "title": "MET Brain Structure (MBS): A Structural Runtime Hypothesis for Embodied Cognition, Dreaming, Retrieval, Learning, and Cognitive Convergence",
-  "upload_type": "publication",
-  "publication_type": "workingpaper",
-  "description": "<p><strong>MET Brain Structure (MBS)</strong> is an exploratory structural runtime hypothesis investigating possible organizational principles underlying biological cognition.</p><p>The project emerged from research in Structural Intelligence, Calling Graphs, Function Tunnel Intelligence (FTI), Function Tunnel Math and Networks (FTMN), Autonomous Structural Intelligence (ASI), and Human-AI Hybrid Cognition.</p><p>MBS proposes that many cognitive phenomena may be viewed through a common Trigger-Retrieval-Tunnel Architecture involving trigger systems, retrieval structures, graph and tunnel knowledge organization, embodied scene runtime, and continuous in-situ adaptation.</p><p>The repository explores possible structural explanations for dreaming, danger response, memory recall, imagination, planning, navigation, learning, cognitive convergence, and trigger-centered runtime selection.</p><p>MBS is not intended to replace neuroscience. Instead, it aims to provide a complementary structural perspective and a digital modeling framework that may help organize observations across neuroscience, cognitive science, animal behavior, artificial intelligence, and future human-AI hybrid intelligence systems.</p>",
-  "creators": [
-    {
-      "name": "Tan, Sizhe",
-      "affiliation": "Independent Researcher"
-    }
-  ],
-  "keywords": [
-    "Structural Intelligence",
-    "MET Brain Structure",
-    "Brain Structure",
-    "Embodied Cognition",
-    "Dreaming",
-    "Dream Runtime",
-    "Trigger Systems",
-    "Trigger Channels",
-    "Retrieval Systems",
-    "Function Tunnel Intelligence",
-    "Calling Graph",
-    "Autonomous Structural Intelligence",
-    "Cognitive Convergence",
-    "Human-AI Hybrid Intelligence",
-    "Cognitive Architecture",
-    "Computational Neuroscience"
-  ],
-  "license": "Apache-2.0",
-  "version": "1.0.0",
-  "language": "eng",
-  "access_right": "open"
+"title": "Function Tunnel Networks (FTN): A Structural Perspective on Intelligence, Education, Division of Labor, and Human-AI Co-Evolution",
+"creators": [
+{
+"name": "Tan, Sizhe",
+"affiliation": "Independent Researcher"
+}
+],
+"description": "Function Tunnel Networks (FTN) is an open research framework investigating how stable functional pathways shape intelligence, learning, specialization, education, division of labor, comparative advantage, and Human-AI collaboration. Building upon Function Tunnel Intelligence (FTI), the FTN framework introduces the concepts of Function Tunnel Networks and Function Tunnel Capital (FTC) to explain how capabilities emerge, accumulate, and evolve across individuals, organizations, societies, and Human-AI systems. The repository explores Function Tunnels as operational structures rather than metaphors, emphasizing trajectory families, feasible evolution regions, educational tunnel engineering, social specialization, collective intelligence, and future Human-AI co-evolution.",
+"upload_type": "publication",
+"publication_type": "workingpaper",
+"license": "Apache-2.0",
+"keywords": [
+"Function Tunnel",
+"Function Tunnel Intelligence",
+"Function Tunnel Network",
+"Function Tunnel Capital",
+"FTI",
+"FTN",
+"FTC",
+"Structural Intelligence",
+"Human-AI Collaboration",
+"Collective Intelligence",
+"Education",
+"Division of Labor",
+"Career Selection",
+"Civilization",
+"Complex Systems"
+],
+"version": "1.0.0",
+"language": "eng"
 }
