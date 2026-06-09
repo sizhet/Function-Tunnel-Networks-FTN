@@ -23,6 +23,8 @@ It is something that can be:
 
 This document clarifies the transition from the intuitive metaphorical interpretation of FT to its intended role as a runtime structural operator.
 
+![./figures/Fig-001-From-Trajectory-Families-to-Function-Tunnel.png](./figures/Fig-001-From-Trajectory-Families-to-Function-Tunnel.png)
+
 ## 1. The Common Misunderstanding
 
 When readers first encounter the term Function Tunnel, they often think of:
@@ -84,6 +86,8 @@ Function Tunnels emerge precisely because successful evolution is constrained.
 
 ## 3. Function Tunnel as a Feasible Evolution Region
 
+![./figures/Fig-002-Function-Tunnel-as-a-Feasible-Evolution-Region.png](./figures/Fig-002-Function-Tunnel-as-a-Feasible-Evolution-Region.png)
+
 A useful intuition is to think of a Function Tunnel as a feasible region embedded within a larger space of possibilities.
 
               Invalid Region
@@ -119,6 +123,8 @@ Under this interpretation:
 > A Function Tunnel is an operator-defined feasible evolution region.
 
 ## 4. Function Tunnel as a Runtime Structure
+
+![./figures/Fig-004-Function-Tunnel-as-Operator.pngg](./figures/Fig-004-Function-Tunnel-as-Operator.png)
 
 Function Tunnels are not static entities.
 
@@ -169,6 +175,8 @@ the system follows an evolution trajectory.
 Function Tunnels constrain and guide those trajectories.
 
 ## 5. Time Series Curves: A Practical Engineering Example
+
+![./figures/Fig-003-Curve-Family-to-Prediction.png](./figures/Fig-003-Curve-Family-to-Prediction.png)
 
 To understand Function Tunnels operationally, it is useful to examine a familiar engineering problem.
 
@@ -331,6 +339,8 @@ It is a family of feasible trajectories.
 
 ## 8. Relationship to Structural Intelligence
 
+![./figures/Fig-005-Relationship-Between-CCC-FTI-FTN-FTC.png](./figures/Fig-005-Relationship-Between-CCC-FTI-FTN-FTC.png)
+
 Many concepts developed within Structural Intelligence can be reinterpreted through the Function Tunnel perspective.
 
 ### Differential Tree
@@ -362,6 +372,8 @@ Can be viewed as accumulated reusable Function Tunnel assets.
 The Time Series example is merely an intuitive entry point.
 
 Function Tunnels may emerge in many domains.
+
+![./figures/Fig-006-Same-Idea-Across-Domains.png](./figures/Fig-006-Same-Idea-Across-Domains.png)
 
 Examples include:
 
