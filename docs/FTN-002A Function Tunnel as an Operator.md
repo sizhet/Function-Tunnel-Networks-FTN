@@ -465,3 +465,71 @@ And potentially:
 > **It is a recurrent feasible evolution region discovered from aligned trajectory families.**
 
 This statement serves as the operational foundation of the entire FT → FTI → FTN → FTC framework.
+
+---
+
+## Common Criticisms and Responses
+
+### Criticism 1
+### Function Tunnel Is Merely a Metaphor
+
+This is perhaps the most common criticism.
+
+The FT framework does not use Function Tunnel merely as a descriptive analogy.
+
+Instead, Function Tunnels are proposed as recurring feasible evolution regions discovered from historical trajectory families.
+
+The Time Series Curve Family example demonstrates how Function Tunnels may emerge from observable and computable structures.
+
+### Criticism 2
+### Function Tunnels Cannot Be Measured
+
+Measurement remains an open problem.
+
+However, many scientific concepts were useful before precise metrics existed.
+
+Potential future metrics may include:
+
+- trajectory density,
+- trajectory stability,
+- constraint preservation,
+- trajectory convergence,
+- network connectivity.
+
+The absence of a mature metric does not imply the absence of the underlying phenomenon.
+
+### Criticism 3
+### Function Tunnel Is Just Another Name for Skill
+
+Skills describe observable performance.
+
+Function Tunnels describe underlying structural pathways.
+
+A skill may be viewed as an external manifestation of a Function Tunnel.
+
+The two concepts are related but not identical.
+
+### Criticism 4
+### Function Tunnel Theory Is Too Broad
+
+The FT framework is intentionally broad.
+
+Its purpose is not to replace domain-specific theories.
+
+Instead, it attempts to provide a structural perspective that may connect observations across learning, expertise, specialization, Human-AI collaboration, and collective intelligence.
+
+### Criticism 5
+### Why Introduce a New Framework?
+
+New frameworks are justified only if they reveal patterns that existing frameworks fail to explain.
+
+The FT framework aims to provide a unified explanation for:
+
+- expertise formation,
+- educational effectiveness,
+- specialization,
+- comparative advantage,
+- Human-AI collaboration,
+- and long-term capability accumulation.
+
+Whether it succeeds remains an open research question.
