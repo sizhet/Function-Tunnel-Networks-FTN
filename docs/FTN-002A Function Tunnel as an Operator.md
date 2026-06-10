@@ -23,7 +23,7 @@ It is something that can be:
 
 This document clarifies the transition from the intuitive metaphorical interpretation of FT to its intended role as a runtime structural operator.
 
-![./figures/Fig-001-From-Trajectory-Families-to-Function-Tunnel.png](./figures/Fig-001-From-Trajectory-Families-to-Function-Tunnel.png)
+![./figures/Fig-001A-From-Trajectory-Families-to-Function-Tunnel.png](figures/Fig-001A-From-Trajectory-Families-to-Function-Tunnel.png)
 
 ## 1. The Common Misunderstanding
 

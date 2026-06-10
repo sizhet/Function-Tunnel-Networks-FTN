@@ -4,6 +4,10 @@
 
 ---
 
+![./docs/figures/Fig-000-Why-FTN.png](./docs/figures/Fig-000-Why-FTN.png)
+
+---
+
 ## Core Thesis
 
 Human intelligence is not merely the accumulation of knowledge.
@@ -14,7 +18,7 @@ We call these pathways **Function Tunnels (FT)**.
 
 As Function Tunnels accumulate, interact, and reinforce one another, they form **Function Tunnel Networks (FTN)**.
 
-![./docs/figures/Fig-001-From-Trajectory-Families-to-Function-Tunnel.png](./docs/figures/Fig-001-From-Trajectory-Families-to-Function-Tunnel.png)
+![./docs/figures/Fig-001A-From-Trajectory-Families-to-Function-Tunnel.png](docs/figures/Fig-001A-From-Trajectory-Families-to-Function-Tunnel.png)
 
 This repository explores the hypothesis that:
 
@@ -28,6 +32,10 @@ This repository explores the hypothesis that:
 - and Human-AI collaboration
 
 can all be understood as consequences of the formation and evolution of Function Tunnel Networks.
+
+---
+
+![./docs/figures/Fig-001-Position-of-FTN-in-Structural-Intelligence.png](./docs/figures/Fig-001-Position-of-FTN-in-Structural-Intelligence.png)
 
 ---
 

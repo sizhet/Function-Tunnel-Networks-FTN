@@ -2,6 +2,8 @@
 ## Function Tunnel Networks (FTN)
 ### A Structural Perspective on Intelligence, Education, Division of Labor, and Human-AI Co-Evolution
 
+![./figures/Fig-001-Position-of-FTN-in-Structural-Intelligence.png](./figures/Fig-001-Position-of-FTN-in-Structural-Intelligence.png)
+
 ## Why This Repository?
 
 Many theories explain intelligence through:
